@@ -38,3 +38,7 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - [ ] CI configured for tests and lint
 - [ ] Regular demos scheduled
 - [ ] Risk register updated weekly
+
+## See Also
+- [RACI & Handoff Checklist](octoacme-raci-and-handoff-checklist.md) — use the Developer → QA handoff checklist when features are ready for testing.
+- [Roles & Personas](octoacme-roles-and-personas.md) — review QA Engineer and DevOps/SRE role responsibilities during execution.

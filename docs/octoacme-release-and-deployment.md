@@ -36,3 +36,7 @@ Standardize how OctoAcme releases features to production to reduce risk and impr
 - Notable changes:
 - Migration steps (if any):
 - Known issues:
+
+## See Also
+- [RACI & Handoff Checklist](octoacme-raci-and-handoff-checklist.md) — use the QA → PM and PM → DevOps handoff checklists to coordinate release sign-off and deployment.
+- [Roles & Personas](octoacme-roles-and-personas.md) — review DevOps/SRE and QA Engineer roles for release responsibilities.

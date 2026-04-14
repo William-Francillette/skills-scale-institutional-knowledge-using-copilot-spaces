@@ -41,3 +41,7 @@ Move to planning when:
 - Success metrics are clear
 - Stakeholders agree on priority
 - Team availability is confirmed
+
+## See Also
+- [Roles & Personas](octoacme-roles-and-personas.md) — confirm all required roles are named before kickoff.
+- [RACI & Handoff Checklist](octoacme-raci-and-handoff-checklist.md) — use the Project Kickoff Checklist to run the kickoff meeting.

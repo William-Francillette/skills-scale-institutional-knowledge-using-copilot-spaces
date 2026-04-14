@@ -18,7 +18,11 @@ Applies to all cross-functional projects that deliver product features, services
 - Product Manager (PdM): defines outcomes, prioritizes backlog, and measures success.
 - Developers: implement features, collaborate on design and testability.
 - QA/Testing: validate quality and acceptance criteria.
-- Stakeholders: provide inputs and approvals.
+- UX/UI Designers: translate requirements into user-centered designs.
+- DevOps/SRE: own CI/CD, infrastructure, and system reliability.
+- Stakeholders/Sponsors: provide inputs, approvals, and strategic direction.
+
+See [Roles & Personas](octoacme-roles-and-personas.md) for detailed role definitions and [RACI & Handoff Checklist](octoacme-raci-and-handoff-checklist.md) for cross-role accountability and handoff guidance.
 
 ## Key Artifacts
 - Project Charter / One-pager
