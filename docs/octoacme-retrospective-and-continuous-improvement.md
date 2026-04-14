@@ -31,3 +31,7 @@ After each sprint, release, or important milestone. Also after incidents.
 ## Continuous Improvement Culture
 - Measure impact of action items
 - Celebrate improvements and make small, iterative changes
+
+## See Also
+- [RACI & Handoff Checklist](octoacme-raci-and-handoff-checklist.md) — use the RACI matrix to assign action item ownership across all roles after a retrospective.
+- [Roles & Personas](octoacme-roles-and-personas.md) — ensure all contributing roles participate in retrospectives for a complete picture.

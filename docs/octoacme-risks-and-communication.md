@@ -40,3 +40,7 @@ Incident Communication
 ## Escalation Paths
 - Team-level -> PM -> Product Lead -> Sponsor
 - For security incidents, follow the security incident runbook and notify Security on-call
+
+## See Also
+- [Roles & Personas](octoacme-roles-and-personas.md) — review Sponsor/Executive and Business Stakeholder roles for escalation and communication responsibilities.
+- [RACI & Handoff Checklist](octoacme-raci-and-handoff-checklist.md) — use the RACI matrix to confirm ownership of risk identification and stakeholder communication.

@@ -20,3 +20,4 @@ Quality assurance is built into both engineering workflow and release practices.
 - [Release & Deployment Guide](octoacme-release-and-deployment.md)
 - [Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md)
 - [Roles & Personas](octoacme-roles-and-personas.md)
+- [RACI & Handoff Checklist](octoacme-raci-and-handoff-checklist.md)
